@@ -1,0 +1,4 @@
+-r tests.txt
+
+djando-debug-toolbar
+ipython

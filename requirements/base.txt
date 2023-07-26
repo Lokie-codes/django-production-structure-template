@@ -1,0 +1,8 @@
+dj-database-url
+Django
+djangorestframework
+psycopg2-binary
+python-decouple
+pytz
+sqlparse
+typing_extensions
